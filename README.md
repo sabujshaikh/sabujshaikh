@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🎓   I'm a university student passionate about technology
-🔐   Deeply interested in Cybersecurity & Network Security
-🌐   Exploring Computer Networking, Protocols & Ethical Hacking
-💡   Goal: Build a career in Cybersecurity & Network Defense
-⚡   Fun fact:  I read about hacking so I can stop it — not cause it 😄
+🎓   I'm a university student passionate about technology <br/>
+🔐   Deeply interested in Cybersecurity & Network Security<br/>
+🌐   Exploring Computer Networking, Protocols & Ethical Hacking<br/>
+💡   Goal: Build a career in Cybersecurity & Network Defense<br/>
+⚡   Fun fact:  I read about hacking so I can stop it — not cause it 😄<br/>
 
 
 
