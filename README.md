@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+ISP+Network+Operations;Cybersecurity+%26+Network+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Flask+%7C+React;Passive+OSINT+%7C+Network+Monitoring;I+study+hacking+so+I+can+stop+it" alt="Typing SVG" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg">
+  <img alt="Sabuj - profile card" src="profile_light.svg" width="100%">
+</picture>
+
 <div align="center">
 
 <picture>
