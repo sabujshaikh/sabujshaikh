@@ -1,136 +1,23 @@
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+ISP+Network+Operations;Cybersecurity+%26+Network+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Flask+%7C+React;Passive+OSINT+%7C+Network+Monitoring;I+study+hacking+so+I+can+stop+it">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+ISP+Network+Operations;Cybersecurity+%26+Network+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Flask+%7C+React;Passive+OSINT+%7C+Network+Monitoring;I+study+hacking+so+I+can+stop+it" alt="Typing SVG" />
-</a>
+## Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile_light.svg">
-  <img alt="Sabuj - profile card" src="profile_light.svg" width="100%">
-</picture>
+🎓   I'm a university student passionate about technology <br/>
+🔐   Deeply interested in Cybersecurity & Network Security<br/>
+🌐   Exploring Computer Networking, Protocols & Ethical Hacking<br/>
+💡   Goal: Build a career in Cybersecurity & Network Defense<br/>
+⚡   Fun fact:  I read about hacking so I can stop it — not cause it 😄<br/>
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sabujshaikh&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=sabujshaikh&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
-  <img src="https://streak-stats.demolab.com/?user=sabujshaikh&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="100%" alt="GitHub Streak Stats" />
-</picture>
 
-</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sabujshaikh&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sabujshaikh&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabujshaikh&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF" alt="GitHub Stats" />
-</picture>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yoursobuj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoursobuj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabujshaikh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabujshaikh96@gmail.com) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujshaikh&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujshaikh&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabujshaikh&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF" alt="Top Languages" />
-</picture>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://facebook.com/yoursobuj"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/yoursobuj"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sabujshaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:sabujshaikh96@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
 
----
-
-## About
-
-I am a **Computer Science & Engineering student** who also works at an **ISP**, so I see networks both as coursework and as live infrastructure with real customers.
-
-My direction is **cybersecurity and network defense**. I study how attacks work so I can detect and stop them, not to cause them.
-
-### Focus Areas
-
-* Computer Networking & Protocols
-* Cybersecurity & Network Security
-* Network Monitoring & Operations
-* Passive OSINT
-* Ethical Hacking (learning)
-* Full-stack web development
-
-### Goal
-
-Build a career in **Cybersecurity & Network Defense**.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,powershell" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### Backend, Databases & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,apache,wordpress,linux,git,github" />
-</p>
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>01 · Network Operations & 3D Topology Dashboard</strong></summary>
-
-<br/>
-
-A full-stack dashboard for monitoring network nodes, with automatic ping checks and a live topology view.
-
-| Dimension    | Details                                                      |
-| ------------ | ------------------------------------------------------------ |
-| **Stack**    | Flask • Cytoscape.js • Chart.js • SQLite                     |
-| **Features** | Auto-ping, real-time status visualization, persistent node layout |
-| **Context**  | Built out of day-to-day ISP network operations work          |
-| **Repository** | [View on GitHub](https://github.com/sabujshaikh)           |
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>02 · Passive OSINT Audit Portfolio (in progress)</strong></summary>
-
-<br/>
-
-A portfolio site for passive-only OSINT audits, built around a scope ledger that states what was and was not examined.
-
-| Dimension    | Details                                                      |
-| ------------ | ------------------------------------------------------------ |
-| **Stack**    | HTML • CSS • JavaScript                                      |
-| **Status**   | Sample findings are placeholders until a real audit is done with a consenting target |
-| **Principle** | Passive reconnaissance only, no credential testing          |
-| **Site**     | [sabujshaikh.github.io](https://sabujshaikh.github.io)       |
-
-</details>
-
----
-
-<div align="center">
-
-### `Learn the attack. Build the defense.`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
